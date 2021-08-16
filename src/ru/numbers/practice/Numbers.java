@@ -1,4 +1,4 @@
-package ru.hello.practice;
+package ru.numbers.practice;
 
 public class Numbers {
     public static void main(String[] args) {
@@ -6,3 +6,4 @@ public class Numbers {
         byte b = 127;
     }
 }
+
